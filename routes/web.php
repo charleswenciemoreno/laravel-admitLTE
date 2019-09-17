@@ -21,3 +21,5 @@ Route::get('/', function () {
 });
 
 Route::resource('users', 'Users');
+
+Route::resource('inventory', 'InventoryController');

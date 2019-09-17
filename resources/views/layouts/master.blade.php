@@ -184,10 +184,19 @@
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
           <li class="nav-item">
-            <a href="users" class="nav-link">
+            <a href="/users" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Users
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="/inventory" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+                Inventories
               </p>
             </a>
           </li>
